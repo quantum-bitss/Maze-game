@@ -1,0 +1,315 @@
+{
+	"frames": {
+		"GDMImageWatermark.png": {
+			"frame": {
+				"h": 0,
+				"w": 0,
+				"x": 327,
+				"y": 481
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 0,
+				"w": 0
+			},
+			"spriteSourceSize": {
+				"h": 0,
+				"w": 0,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"L-claw.png": {
+			"frame": {
+				"h": 24,
+				"w": 92,
+				"x": 761,
+				"y": 318
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 49,
+				"w": 121
+			},
+			"spriteSourceSize": {
+				"h": 24,
+				"w": 92,
+				"x": 13,
+				"y": 11
+			},
+			"trimmed": "true"
+		},
+		"L-low-leg.png": {
+			"frame": {
+				"h": 39,
+				"w": 124,
+				"x": 590,
+				"y": 329
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 72,
+				"w": 150
+			},
+			"spriteSourceSize": {
+				"h": 39,
+				"w": 124,
+				"x": 14,
+				"y": 18
+			},
+			"trimmed": "true"
+		},
+		"L-mid-leg.png": {
+			"frame": {
+				"h": 41,
+				"w": 83,
+				"x": 471,
+				"y": 574
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 58,
+				"w": 110
+			},
+			"spriteSourceSize": {
+				"h": 41,
+				"w": 83,
+				"x": 14,
+				"y": 9
+			},
+			"trimmed": "true"
+		},
+		"L-up-leg.png": {
+			"frame": {
+				"h": 53,
+				"w": 113,
+				"x": 378,
+				"y": 574
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 83,
+				"w": 145
+			},
+			"spriteSourceSize": {
+				"h": 53,
+				"w": 113,
+				"x": 17,
+				"y": 15
+			},
+			"trimmed": "true"
+		},
+		"R-claw.png": {
+			"frame": {
+				"h": 24,
+				"w": 92,
+				"x": 761,
+				"y": 186
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 49,
+				"w": 121
+			},
+			"spriteSourceSize": {
+				"h": 24,
+				"w": 92,
+				"x": 15,
+				"y": 13
+			},
+			"trimmed": "true"
+		},
+		"R-low-leg.png": {
+			"frame": {
+				"h": 39,
+				"w": 124,
+				"x": 590,
+				"y": 408
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 72,
+				"w": 150
+			},
+			"spriteSourceSize": {
+				"h": 39,
+				"w": 124,
+				"x": 13,
+				"y": 16
+			},
+			"trimmed": "true"
+		},
+		"R-mid-leg.png": {
+			"frame": {
+				"h": 41,
+				"w": 83,
+				"x": 378,
+				"y": 727
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 58,
+				"w": 110
+			},
+			"spriteSourceSize": {
+				"h": 41,
+				"w": 83,
+				"x": 13,
+				"y": 8
+			},
+			"trimmed": "true"
+		},
+		"R-up-leg.png": {
+			"frame": {
+				"h": 53,
+				"w": 113,
+				"x": 378,
+				"y": 481
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 83,
+				"w": 145
+			},
+			"spriteSourceSize": {
+				"h": 53,
+				"w": 113,
+				"x": 16,
+				"y": 15
+			},
+			"trimmed": "true"
+		},
+		"body.png": {
+			"frame": {
+				"h": 223,
+				"w": 255,
+				"x": 327,
+				"y": 186
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 254,
+				"w": 282
+			},
+			"spriteSourceSize": {
+				"h": 223,
+				"w": 255,
+				"x": 14,
+				"y": 15
+			},
+			"trimmed": "true"
+		},
+		"dead-eyes.png": {
+			"frame": {
+				"h": 167,
+				"w": 318,
+				"x": 20,
+				"y": 545
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 289,
+				"w": 349
+			},
+			"spriteSourceSize": {
+				"h": 167,
+				"w": 318,
+				"x": 14,
+				"y": 59
+			},
+			"trimmed": "true"
+		},
+		"laser-eye.png": {
+			"frame": {
+				"h": 131,
+				"w": 103,
+				"x": 590,
+				"y": 186
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 144,
+				"w": 117
+			},
+			"spriteSourceSize": {
+				"h": 131,
+				"w": 103,
+				"x": 8,
+				"y": 5
+			},
+			"trimmed": "true"
+		},
+		"laser-flea.png": {
+			"frame": {
+				"h": 0,
+				"w": 0,
+				"x": 531,
+				"y": 481
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 0,
+				"w": 0
+			},
+			"spriteSourceSize": {
+				"h": 0,
+				"w": 0,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"laser.png": {
+			"frame": {
+				"h": 126,
+				"w": 767,
+				"x": 20,
+				"y": 20
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 150,
+				"w": 767
+			},
+			"spriteSourceSize": {
+				"h": 126,
+				"w": 767,
+				"x": 0,
+				"y": 13
+			},
+			"trimmed": "true"
+		},
+		"shell.png": {
+			"frame": {
+				"h": 267,
+				"w": 319,
+				"x": 20,
+				"y": 186
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 289,
+				"w": 349
+			},
+			"spriteSourceSize": {
+				"h": 267,
+				"w": 319,
+				"x": 13,
+				"y": 10
+			},
+			"trimmed": "true"
+		}
+	},
+	"meta": {
+		"app": "Spriter",
+		"format": "RGBA8888",
+		"image": "laser_flea.png",
+		"scale": 1,
+		"size": {
+			"h": 807,
+			"w": 807
+		},
+		"version": "r11"
+	}
+}
